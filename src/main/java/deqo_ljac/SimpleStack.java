@@ -9,6 +9,7 @@ public interface SimpleStack {
     /**
      * Tests if this stack is empty
      */
+
     public boolean isEmpty();
     /**
      * Returns the number of items in this stack.
