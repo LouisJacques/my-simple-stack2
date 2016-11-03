@@ -1,0 +1,8 @@
+# ignore les .class
+*.class
+#ignore le dossier target
+/target/
+#ignore les .iml
+*.iml
+#ignore le dossier idea
+/.idea/
